@@ -9,4 +9,5 @@ rm -rf build
 
 #Install_node_modules_&_Make_React_Build
 npm  install
+npm install react-scripts
 npm run build
