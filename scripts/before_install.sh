@@ -7,7 +7,7 @@ cd /home/ubuntu/server
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo bash
 
 #_Download_Node_&NPM
-apt -y install nodejs npm
+sudo apt-get install nodejs npm
 
 #_Download_PM2
-npm install pm2@latest -g
+sudo npm install -g pm2
