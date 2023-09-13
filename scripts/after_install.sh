@@ -12,3 +12,4 @@ npm  install
 npm install react-scripts
 npm audit fix
 npm run build
+pm2 start server.js
